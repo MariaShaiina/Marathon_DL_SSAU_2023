@@ -19,3 +19,4 @@
 1. [Для чего нужен dropout в машинном обучении?](https://yandex.ru/q/machine-learning/10885269761/#:~:text=Dropout%20—%20это%20подход%20к%20регуляризации,узлов%20(и%20соответствующих%20активаций))
 2. [Dropout — метод решения проблемы переобучения в нейронных сетях](https://habr.com/ru/companies/wunderfund/articles/330814/#)
 3. [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf)
+4. [Распределе́ние Берну́лли](https://ru.wikipedia.org/wiki/Распределение_Бернулли#:~:text=Распределе́ние%20Берну́лли%20в%20теории%20вероятностей,известной%20вероятности%20успеха%20или%20неудачи.)
